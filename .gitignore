@@ -1,4 +1,4 @@
 # ignore file 
 newfile.txt
-# ignore folders
+# ignore all files in the bin directory
 bin/
