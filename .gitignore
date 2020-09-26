@@ -2,3 +2,5 @@
 newfile.txt
 # ignore all files in the bin directory
 bin/
+# ignore all .tmp file
+*.tmp
